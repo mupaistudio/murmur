@@ -1,0 +1,17 @@
+# Rust
+src-tauri/target/
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

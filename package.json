@@ -1,0 +1,17 @@
+{
+  "name": "murmur",
+  "version": "0.1.0",
+  "description": "Voice-to-text input helper",
+  "scripts": {
+    "tauri": "tauri",
+    "dev": "tauri dev",
+    "build": "tauri build"
+  },
+  "keywords": ["voice", "stt", "whisper", "tauri"],
+  "author": "mupai",
+  "license": "MIT",
+  "dependencies": {
+    "@tauri-apps/api": "^2.10.1",
+    "@tauri-apps/cli": "^2.10.1"
+  }
+}
